@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CommonAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6167b83520931514c972d343c0ea9f0f, type: 3}
+    totalSpriteSurfaceArea: 1537536
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6f4a5a80dc2a5914293adfc832a8f2ea, type: 3}
+  - {fileID: 21300000, guid: 2bb2bbb0510650f49894088d28a58324, type: 3}
+  - {fileID: 21300000, guid: c40d3dd0ce286d740ae3da3927104e6e, type: 3}
+  - {fileID: 21300000, guid: 65d10811b926979418ed636e17ae14ea, type: 3}
+  - {fileID: 21300000, guid: 329b7821051af264c93f4c9aef450822, type: 3}
+  - {fileID: 21300000, guid: 12e6e561bea9f2d4e825746af0091991, type: 3}
+  - {fileID: 21300000, guid: 7c7423d1eb7804f4e838e3bfe5b3a41a, type: 3}
+  - {fileID: 21300000, guid: e2fd7002a0e902c47b080fa3664e28f6, type: 3}
+  - {fileID: 21300000, guid: 4620c9729f62fee44a0a19fd863741c7, type: 3}
+  - {fileID: 21300000, guid: 9ae36da25c353504e9baa5b063dacb9c, type: 3}
+  - {fileID: 21300000, guid: a0a619b2bf61f9b489a2c415a9a60581, type: 3}
+  - {fileID: 21300000, guid: 8f675bd224064b642b6e64bef29cb799, type: 3}
+  - {fileID: 21300000, guid: 1720c163e8c3d694db53fb443e5222e8, type: 3}
+  - {fileID: 21300000, guid: c710e863c9cc45943a386a1743f4e772, type: 3}
+  - {fileID: 21300000, guid: b0d5fe04b87b8cc4db87dd1e4b67d0eb, type: 3}
+  - {fileID: 21300000, guid: a0a2f8449f956204682aa8702b4f8b43, type: 3}
+  - {fileID: 21300000, guid: 6aaf5364cc0718f4996f0e37f6f6445f, type: 3}
+  - {fileID: 21300000, guid: 999d3994786d47848a7375f81bf809a0, type: 3}
+  - {fileID: 21300000, guid: 4f13846585a25624a85cc86fc50f6d1d, type: 3}
+  - {fileID: 21300000, guid: 56a0cbb5af395bf4bbb37d10cd285f8c, type: 3}
+  - {fileID: 21300000, guid: 6dc4ebd58453df94596565a6e1827ebf, type: 3}
+  - {fileID: 21300000, guid: 330e24f516003d84fb007b261e647824, type: 3}
+  - {fileID: 21300000, guid: db6ebd16f15253d4097491c3ffecebb6, type: 3}
+  - {fileID: 21300000, guid: 7c45b0260e8155a449fc81681a8e443f, type: 3}
+  - {fileID: 21300000, guid: e356ccc6abc653646abf9b7016e0ebc8, type: 3}
+  - {fileID: 21300000, guid: 2b30f8d6f496b34429647b1f78b95d80, type: 3}
+  - {fileID: 21300000, guid: 158b86e652bc7b0498f3206d2a792466, type: 3}
+  - {fileID: 21300000, guid: 8c110177387100f4ab30a8acde1f03d3, type: 3}
+  - {fileID: 21300000, guid: 350412a79b69f494d951aacc642f3b5b, type: 3}
+  - {fileID: 21300000, guid: aedfc1c7daf9f224fb3c5b97ebd87acc, type: 3}
+  - {fileID: 21300000, guid: abeb8c18c78912b41b19adf08b3d9740, type: 3}
+  - {fileID: 21300000, guid: 0cac97588b653fe4491c5c2a1f17ae23, type: 3}
+  - {fileID: 21300000, guid: b9d89988517fcd9438956ac0bdf6b497, type: 3}
+  - {fileID: 21300000, guid: 3e5099b8a921d0243bf9a67e42486c6c, type: 3}
+  - {fileID: 21300000, guid: b2ba3dd84c36ff54aa30656a0f29e9c2, type: 3}
+  - {fileID: 21300000, guid: 4cb7d8e89fc0f4d47b056facd85a6e48, type: 3}
+  - {fileID: 21300000, guid: 4afa37098dff0414d9af9df6b880d4f5, type: 3}
+  - {fileID: 21300000, guid: 52fea0390a2cd8449b26968229ef765d, type: 3}
+  - {fileID: 21300000, guid: 2c44923959b86214e99aa264a10f399d, type: 3}
+  - {fileID: 21300000, guid: 7758d51a63d548940b4a0082b167fa82, type: 3}
+  - {fileID: 21300000, guid: 949ae91aabb4dcd4d9b979787ecffc11, type: 3}
+  - {fileID: 21300000, guid: 62583aaad357dbf48b89db347780c6d6, type: 3}
+  - {fileID: 21300000, guid: 328c04bac6a120c45b29faac177f9fdc, type: 3}
+  - {fileID: 21300000, guid: 993eaeea9e2bb7b4f89dd98d8dfa9cf9, type: 3}
+  - {fileID: 21300000, guid: f49ac8dbf655e3d469ead693876ec3bf, type: 3}
+  - {fileID: 21300000, guid: 640f2ddb77527584bad1307cbdf6f0aa, type: 3}
+  - {fileID: 21300000, guid: 3488a60c7140c464ba82f0179803bcd2, type: 3}
+  - {fileID: 21300000, guid: 04f0db8ca772f5a4bbcb685967431f8f, type: 3}
+  - {fileID: 21300000, guid: a6b1ab4d583c5fc40998d787c4c30280, type: 3}
+  - {fileID: 21300000, guid: 2b4a267e1ea5cef4cb46164ffd4079a0, type: 3}
+  - {fileID: 21300000, guid: 77aa979eb306df94cb83aeba00e53f2d, type: 3}
+  - {fileID: 21300000, guid: 152458eee0c9391428146bcdef5b04e3, type: 3}
+  - {fileID: 21300000, guid: f015198f54e9464499e0b17118e21ab2, type: 3}
+  - {fileID: 21300000, guid: 699b33bf011a0874695ac421cf6b5a53, type: 3}
+  - {fileID: 21300000, guid: 7a048acfc4b21764fbec946066236ad7, type: 3}
+  - {fileID: 21300000, guid: c3e9a6df1eec3844bb5b547bf96b16e2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - W9
+  - "\u6A2A\u30B9\u30E9\u30ED\u30FC\u30E0"
+  - B2
+  - "\u306F\u306B\u304B\u3080"
+  - W6
+  - B1
+  - BUTTON
+  - B6
+  - "\u4E0A\u30AB\u30FC\u30D6"
+  - "\u6A2A\u30E9\u30A4\u30F3"
+  - EXP
+  - W1
+  - B8
+  - W4
+  - EXPBoost
+  - HartPlus
+  - "\u4E0A\u30E9\u30A4\u30F3"
+  - W7
+  - MessageWindow
+  - Gear
+  - PauseButton
+  - BG
+  - "\u6A2A\u5186"
+  - SE
+  - arw
+  - B7
+  - B9
+  - "\u6A2A\u30AB\u30FC\u30D6"
+  - Pin
+  - ONOFF
+  - BGM
+  - W5
+  - HELPButton
+  - "\u4E0A\u30B9\u30E9\u30ED\u30FC\u30E0"
+  - WaterHazard
+  - Tee
+  - StarOff
+  - TAPTOSTART
+  - B5
+  - W8
+  - "\u30EF\u30FC\u30D7"
+  - B0
+  - OK
+  - MapButtonTrue
+  - MiniMap
+  - W2
+  - SkipButton
+  - W0
+  - StarOn
+  - dot
+  - "\u7E26\u5186"
+  - W3
+  - B4
+  - MapButtonFalse
+  - B3
+  - OB
+  m_Tag: CommonAtlas
+  m_IsVariant: 0

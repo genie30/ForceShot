@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ENAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5bda6db74a811144291e1d0a18be60e6, type: 3}
+    totalSpriteSurfaceArea: 840992
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8e6a27900ee1cfb4390ca3c78b7a61fe, type: 3}
+  - {fileID: 21300000, guid: 46dcdbd0934b9454d91797b00292d156, type: 3}
+  - {fileID: 21300000, guid: 362a47239ba45884eb238229dd399e45, type: 3}
+  - {fileID: 21300000, guid: 4cb541e338892a34291364d8e356f00d, type: 3}
+  - {fileID: 21300000, guid: 759fda45120e53e4786fd538696df7db, type: 3}
+  - {fileID: 21300000, guid: 620043162b429dd4cbfe6ad4e62b914e, type: 3}
+  - {fileID: 21300000, guid: 2e07d8360ee66194aac9a713ce06198b, type: 3}
+  - {fileID: 21300000, guid: 58c8a907844d49b45b9e42622fb8e262, type: 3}
+  - {fileID: 21300000, guid: 43d4b767306294a41b4fc422c5a73c8e, type: 3}
+  - {fileID: 21300000, guid: 624b0e778993d6444ba088b7853998fe, type: 3}
+  - {fileID: 21300000, guid: d9e7b5d8e3830e64690c8af774f40457, type: 3}
+  - {fileID: 21300000, guid: 8961ccd81631b7e4ba90eedf83bb0859, type: 3}
+  - {fileID: 21300000, guid: faa5836bfda506f45bf264bbbd3c7b22, type: 3}
+  - {fileID: 21300000, guid: 9af9ef8bf5bb2bd4c8acfdb0777b9b8e, type: 3}
+  - {fileID: 21300000, guid: 5b133ecb11c80df40b89952cad2b94fd, type: 3}
+  - {fileID: 21300000, guid: de79730f3984db948b8b6d143e1d77d3, type: 3}
+  - {fileID: 21300000, guid: 25bfc07f350724740b40babfaafb4fd1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SHOT
+  - STAGESELECT
+  - SUB
+  - HELP
+  - FORCESHOT
+  - CANCEL
+  - RESUME
+  - CLOSE
+  - SHOTPROGRAM
+  - STARTBUTTON
+  - SET
+  - RETRY
+  - RTCourseSelect
+  - PAUSE
+  - HOLEIN
+  - SETUP
+  - PROGRAM
+  m_Tag: ENAtlas
+  m_IsVariant: 0

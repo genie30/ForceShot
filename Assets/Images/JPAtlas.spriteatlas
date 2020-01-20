@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JPAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: aecdd7ee88a1bff44b15adef479d8fe7, type: 3}
+    totalSpriteSurfaceArea: 721712
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0b584900e9e604b479a3d4b6367a1d3d, type: 3}
+  - {fileID: 21300000, guid: 477cd392c3d6a654aaa28f2b5a8bb99d, type: 3}
+  - {fileID: 21300000, guid: 013eea33926be6c4b9492ed46c8d6380, type: 3}
+  - {fileID: 21300000, guid: f8cb1863b9e0e2b439df81a9f6df2db5, type: 3}
+  - {fileID: 21300000, guid: cc7bc084600bc9b4a9990137cf3bb5e1, type: 3}
+  - {fileID: 21300000, guid: 68a468454cc2f2c40a1fc83838244975, type: 3}
+  - {fileID: 21300000, guid: 65185d4581d0cbc44a89123ab45ba3ea, type: 3}
+  - {fileID: 21300000, guid: faebde965c11e49489d7cd3f4909c355, type: 3}
+  - {fileID: 21300000, guid: 64e889f7f22b6c843bba386c204a67e2, type: 3}
+  - {fileID: 21300000, guid: 78b783e8bea4c4f488d30438b2dae21f, type: 3}
+  - {fileID: 21300000, guid: 77472d09ca7d89e42b8a1740d192f820, type: 3}
+  - {fileID: 21300000, guid: 2af39729b7a4ae641be7de1cc9e0532b, type: 3}
+  - {fileID: 21300000, guid: 8b49c1893194ba941a697f143b5e271e, type: 3}
+  - {fileID: 21300000, guid: 0a7315da15c520e478cb6f59dd1f8de7, type: 3}
+  - {fileID: 21300000, guid: e3c0d1fbf762dd144ac47d6cf14f762f, type: 3}
+  - {fileID: 21300000, guid: 54a4858c36d6ce24586f9e33c727faad, type: 3}
+  - {fileID: 21300000, guid: d39630ff6f258964b8d0fd60b251e428, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SHOT
+  - SHOTPROGRAM
+  - RESUME
+  - RTCourseSelect
+  - SET
+  - CANCEL
+  - STARTBUTTON
+  - HOLEIN
+  - SUB
+  - HELP
+  - RETRY
+  - PAUSE
+  - CLOSE
+  - STAGESELECT
+  - PROGRAM
+  - FORCESHOT
+  - SETUP
+  m_Tag: JPAtlas
+  m_IsVariant: 0
