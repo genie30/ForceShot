@@ -4,11 +4,11 @@
 
 Android用ゴルフゲームアプリ
 GooglePlayStoreにて公開中
+https://play.google.com/store/apps/details?id=com.GenieGames.ForceShot
 
-※完全独学ですのでお見苦しいコードがあるかもしれませんが
-　どれが正しいのかがわからなかった為ご容赦ください。
+※完全独学ですのでお見苦しいコードがあるかもしれませんがどれが正しいのかがわからなかった為ご容赦ください。
 
 使用アセット
-　Unirx
-　ZenrinAsset　OtakuCity
-　CriWare Adx2 le
+- Unirx
+- ZenrinAsset　OtakuCity
+- CriWare Adx2 le
