@@ -7,3 +7,8 @@ GooglePlayStoreにて公開中
 
 ※完全独学ですのでお見苦しいコードがあるかもしれませんが
 　どれが正しいのかがわからなかった為ご容赦ください。
+
+使用アセット
+　Unirx
+　ZenrinAsset　OtakuCity
+　CriWare Adx2 le
