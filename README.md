@@ -15,4 +15,10 @@ https://play.google.com/store/apps/details?id=com.GenieGames.ForceShot
 - CriWare Adx2 le
 
 訓練校　個人制作課題
-https://github.com/genie30/Kadai
+https://github.com/genie30/Kadai  
+  
+チーム制作ではチームマネジャーのようなことを担当。
+チームのプロジェクトの進行を調整しながら
+メンバーへの作成方法の講義を主に担当致しました。
+その為ほぼメンバーの作成した内容となっておりますので
+作品は開示しておりません。
