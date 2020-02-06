@@ -14,7 +14,7 @@ https://play.google.com/store/apps/details?id=com.GenieGames.ForceShot
 - ZenrinAsset　OtakuCity
 - CriWare Adx2 le
 
-訓練校　個人制作課題
+訓練校　個人制作課題  
 https://github.com/genie30/Kadai  
   
 チーム制作ではチームマネジャーのようなことを担当。  
